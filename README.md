@@ -1,12 +1,5 @@
  oibsip_task-no.1
  # Travel Landing Page
- 
-# Table of Contents
-# --Description
-# --Installation
-# --Usage
-# --Folder Structure
-# --Contributing
 
 # Description
 # This is a simple and visually appealing travel landing page created using HTML and CSS. The page is designed to showcase different travel destinations and encourage users to explore and plan their next adventure.
